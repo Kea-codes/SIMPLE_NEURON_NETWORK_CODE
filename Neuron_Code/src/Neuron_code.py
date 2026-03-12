@@ -1,4 +1,3 @@
-import numpy as np
 
 # UNIQUE INPUTS
 # THREE INPUTS
